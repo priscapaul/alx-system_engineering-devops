@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-As the name implies
+shell initials and basics
